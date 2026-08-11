@@ -15,7 +15,7 @@
 ## 🛠️ Prerequisites & Installation
 
 ```bash
-git clone https://github.com
+git clone https://github.com/harigotsomeguts-bechilling/Devils-Wrath
 cd Devils-Wrath
 pip3 install -r requirements.txt
 ```
